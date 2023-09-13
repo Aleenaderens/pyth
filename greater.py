@@ -1,0 +1,21 @@
+a=2
+b=6
+c=4
+if(2>6):
+    if(2>4):
+        print(2)
+    else:
+        print(4)
+elif(6>2):
+    if(6>4):
+        print(6)
+    else:
+        print(4)
+elif(4>2):
+    if(4>6):
+       print(4)
+    else:
+        print(6)
+else:
+    print(2) 
+    
